@@ -1,11 +1,27 @@
 ---
-title: "rachelqyu.github.io"
+title: "Rachel Q Yu"
+format:
+  html:
+    code-fold: true
+engine: knitr
 ---
 
-This is a Quarto website.
+::: columns
+::: {.column width="60%"}
+**Welcome!**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a Ph.D. student in the Department of Political Science at the University of California, San Diego. My research interests include diplomacy, U.S. foreign policy, foreign lobbying, and U.S.-China relations.
 
-```{r}
-1 + 1
-```
+I received a B.A. in Government & Politics and a B.S. in Information Systems from the University of Maryland, College Park in 2021. My research and graduate studies are funded by the NSF Graduate Research Fellowship Program and the 21st Century China Center at UCSD.
+
+#### [CV](CV.Aug2023.pdf)
+:::
+
+::: {.column width="10%"}
+#### 
+:::
+
+::: {.column width="30%"}
+![](images/91027629_1067370853632145_1720440787835027456_n%20(2)-01.jpg)
+:::
+:::
