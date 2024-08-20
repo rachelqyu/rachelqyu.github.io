@@ -16,10 +16,13 @@ I received a B.A. in Government & Politics and a B.S. in Information Systems fro
 
 #### [CV](RYu-CVpdf)
 :::
-
 ::: {.column width="10%"}
+
+:::
+
+::: {.column width="30%"}
+![](images/headshot-capitol.jpg){fig-align="center" width="558"}
+
 #### 
 :::
 :::
-
-![](images/headshot-capitol.jpg){width="387"}
