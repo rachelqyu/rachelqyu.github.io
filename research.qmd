@@ -4,14 +4,18 @@ title: "Research"
 
 Works in Progress:
 
-1.  Foreign Lobbying and Legislative Behavior
+-   Congressional Oversight Overseas: Information Provision through Diplomacy
+
+-   Messaging at the Water's Edge: Congressional Polarization and U.S.-China Relations
+
+    (with Young Yang)
+
+-   Foreign Lobbying and Legislative Behavior
 
 Data:
 
-1.  Roberts, Margaret E., Lei Guang, Young Yang, Harris Doshay, and Rachel Yu (2023). [Congressional Tweets on China Dashboard](https://chinadatalab.ucsd.edu/tweets/).
+-   Roberts, Margaret E., Lei Guang, Young Yang, Harris Doshay, and Rachel Yu (2023). [Congressional Tweets on China Dashboard](https://chinadatalab.ucsd.edu/tweets/).
 
 Relevant Writing:
 
-1.  Yang, Young and Rachel Yu (2023) "[Congressional Tweets on China: A Guide to Using the Data Portal](https://chinadatalab.ucsd.edu/viz-blog/congressional-tweets-on-china-portal/)", China Data Lab, 21st Century China Center.
-
-2.  Yu, Rachel (2020) "China's Public Diplomacy Strategy in Latin America and the Caribbean" *Sigma Iota Rho: Online Journal of International Relations.*
+-   Yang, Young and Rachel Yu (2023) "[Congressional Tweets on China: A Guide to Using the Data Portal](https://chinadatalab.ucsd.edu/viz-blog/congressional-tweets-on-china-portal/)", China Data Lab, 21st Century China Center.
