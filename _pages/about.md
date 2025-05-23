@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
-  
+
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
@@ -18,10 +18,6 @@ announcements:
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit:  # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit:  # leave blank to include all the blog posts
 ---
 
 I am a Ph.D. candidate in Political Science at the University of California, San Diego. My research bridges American politics and International Relations, with a focus on the role of legislative institutions in foreign policymaking. Specifically, my current work examines how and why members of Congress engage in diplomacy and the implications of congressional diplomacy for American foreign policy.
