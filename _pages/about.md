@@ -1,34 +1,37 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Ph.D. Candidate, UC San Diego </p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: false # keep this if you still want social icons; set false to remove
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+
+nav_order: 1
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I am a Ph.D. candidate in Political Science at the University of California, San Diego. My research is supported by the NSF Graduate Research Fellowship Program, the UCSD Center for American Politics, and the 21st Century China Center. I hold a B.A. in Government & Politics and a B.S. in Information Systems from the University of Maryland.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested in <u>American institutions</u>, <u>inter-branch relations</u>, and <u>US foreign policy</u>. My work leverages statistical methods to analyze congressional and administrative data and political text.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My dissertation examines how members of Congress conduct congressional oversight and when oversight efforts are effective in correcting bureaucratic behavior. I focus on these dynamics within US foreign policy - examining how legislators use different informational tools to gather firsthand knowledge about foreign policy outcomes, when they are more likely to do so, and how this shapes their interactions with and responses from the bureaucracy.
+
+I am on the 2026-2027 job market.
+
+My <a href="/assets/pdf/RYu_CV.pdf"> CV is available here </a>.
+
+I can be reached at: <rqyu@ucsd.edu> 
+
