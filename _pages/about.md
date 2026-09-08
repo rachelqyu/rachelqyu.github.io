@@ -27,7 +27,7 @@ Welcome! I am a Ph.D. candidate in Political Science at the University of Califo
 
 I am interested in **American institutions**, **inter-branch relations**, and **US foreign policy**. My work leverages statistical methods to analyze large-scale datasets and political text.
 
-My dissertation examines on how, when, and how effectively Congress oversees the executive branch. I focus on these dynamics within US foreign policy - examining how legislators use different informational tools to gather firsthand knowledge about policy outcomes, when they are more likely to do so, and how this shapes their interactions with and responses from the bureaucracy.
+My dissertation examines on how, when, and how effectively Congress oversees the executive branch. I focus on these dynamics within foreign policy - examining how legislators use different informational tools to gather firsthand knowledge about policy outcomes, when they are more likely to do so, and how this shapes their interactions with and responses from the bureaucracy.
 
 I am on the 2026-2027 job market.
 
