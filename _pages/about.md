@@ -6,8 +6,8 @@ subtitle:
 
 profile:
   align: right
-  image: headshot.jpg
-  image_circular: true # crops the image to make it circular
+  image: headshot_cropped.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ph.D. Candidate, UC San Diego </p>
 
