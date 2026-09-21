@@ -8,7 +8,7 @@ nav_order: 3
 
 #### Working Papers
 
-**Congressional Oversight Overseas** (Job Market Paper, *Available Upon Request*)
+<a href="/assets/pdf/jmp_congress_overseas.pdf">**Congressional Oversight Overseas**</a> (*Job Market Paper*)
 
 **Who Seeks Foreign Policy Information? Evidence from Congressional Delegations** (*Under Review*)
 
