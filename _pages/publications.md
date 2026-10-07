@@ -12,7 +12,7 @@ nav_order: 3
 
 **Who Seeks Foreign Policy Information? Evidence from Congressional Delegations** (*Under Review*)
 
-**Trade Adjustment Assistance and Political Trust** with Søren Etzerodt & [Ye June Jung](https://www.yejunejungpoli.com/) (*Under Review*)
+**Trade Adjustment Assistance and Political Trust** with Søren Etzerodt & Ye June Jung (*Under Review*)
 
 
 #### Works in Progress
