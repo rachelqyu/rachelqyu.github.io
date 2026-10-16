@@ -10,14 +10,18 @@ nav_order: 3
 
 <b><u><a href="/assets/pdf/jmp_congress_overseas.pdf">Congressional Oversight Overseas</a></u></b> (*Job Market Paper*)
 
-**Who Seeks Foreign Policy Information? Evidence from Congressional Delegations** (*Under Review*)
+"Who Seeks Foreign Policy Information? Evidence from Congressional Delegations" (*Under Review*)
 
-**Trade Adjustment Assistance and Political Trust** with Søren Etzerodt & Ye June Jung (*Under Review*)
+"Trade Adjustment Assistance and Political Trust" with Søren Etzerodt & Ye June Jung (*Under Review*)
 
 
 #### Works in Progress
 
-**Bureaucratic Compliance with Congressional Oversight**
+"Selective Compliance: How Agencies Respond to Congressional Oversight of International Executive Agreements" 
+
+"Bureaucratic Compliance with Congressional Oversight" with Pamela Ban
+
+Book Project: *Congressional Oversight & US Foreign Policy*
 
 
 #### Data
