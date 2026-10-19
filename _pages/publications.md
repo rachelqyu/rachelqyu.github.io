@@ -8,11 +8,11 @@ nav_order: 3
 
 #### Working Papers
 
-<b><u><a href="/assets/pdf/jmp_congress_overseas.pdf">Congressional Oversight Overseas</a></u></b> (*Job Market Paper*)
+<b><u><a href="/assets/pdf/jmp_congress_overseas.pdf">"Congressional Oversight Overseas"</a></u></b> (*Job Market Paper*)
 
 "Who Seeks Foreign Policy Information? Evidence from Congressional Delegations" (*Invited to Revise and Resubmit at the Journal of Political Institutions and Political Economy*)
 
-"Trade Adjustnce and Political Trust" with Søren Etzerodt & Ye June Jung (*Under Review*)
+"Can Trade Compensation Restore Political Trust? Evidence from the European Globalisation Adjustment Fund" with Søren Etzerodt & Ye June Jung (*Under Review*)
 
 
 #### Works in Progress
