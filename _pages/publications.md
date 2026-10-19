@@ -10,9 +10,9 @@ nav_order: 3
 
 <b><u><a href="/assets/pdf/jmp_congress_overseas.pdf">Congressional Oversight Overseas</a></u></b> (*Job Market Paper*)
 
-"Who Seeks Foreign Policy Information? Evidence from Congressional Delegations" (*Under Review*)
+"Who Seeks Foreign Policy Information? Evidence from Congressional Delegations" (*Invited to Revise and Resubmit at the Journal of Political Institutions and Political Economy*)
 
-"Trade Adjustment Assistance and Political Trust" with Søren Etzerodt & Ye June Jung (*Under Review*)
+"Trade Adjustnce and Political Trust" with Søren Etzerodt & Ye June Jung (*Under Review*)
 
 
 #### Works in Progress
